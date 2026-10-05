@@ -1,0 +1,15 @@
+C:\Users\N440_HNC\source\repos\HNC_CSharp_Fundamentals\HNC_CSharp_Fundamentals\bin\Debug\net10.0\HNC_CSharp_Fundamentals.exe
+C:\Users\N440_HNC\source\repos\HNC_CSharp_Fundamentals\HNC_CSharp_Fundamentals\bin\Debug\net10.0\HNC_CSharp_Fundamentals.deps.json
+C:\Users\N440_HNC\source\repos\HNC_CSharp_Fundamentals\HNC_CSharp_Fundamentals\bin\Debug\net10.0\HNC_CSharp_Fundamentals.runtimeconfig.json
+C:\Users\N440_HNC\source\repos\HNC_CSharp_Fundamentals\HNC_CSharp_Fundamentals\bin\Debug\net10.0\HNC_CSharp_Fundamentals.dll
+C:\Users\N440_HNC\source\repos\HNC_CSharp_Fundamentals\HNC_CSharp_Fundamentals\bin\Debug\net10.0\HNC_CSharp_Fundamentals.pdb
+C:\Users\N440_HNC\source\repos\HNC_CSharp_Fundamentals\HNC_CSharp_Fundamentals\obj\Debug\net10.0\HNC_CSharp_Fundamentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\N440_HNC\source\repos\HNC_CSharp_Fundamentals\HNC_CSharp_Fundamentals\obj\Debug\net10.0\HNC_CSharp_Fundamentals.AssemblyInfoInputs.cache
+C:\Users\N440_HNC\source\repos\HNC_CSharp_Fundamentals\HNC_CSharp_Fundamentals\obj\Debug\net10.0\HNC_CSharp_Fundamentals.AssemblyInfo.cs
+C:\Users\N440_HNC\source\repos\HNC_CSharp_Fundamentals\HNC_CSharp_Fundamentals\obj\Debug\net10.0\HNC_CSharp_Fundamentals.csproj.CoreCompileInputs.cache
+C:\Users\N440_HNC\source\repos\HNC_CSharp_Fundamentals\HNC_CSharp_Fundamentals\obj\Debug\net10.0\HNC_CSharp_Fundamentals.dll
+C:\Users\N440_HNC\source\repos\HNC_CSharp_Fundamentals\HNC_CSharp_Fundamentals\obj\Debug\net10.0\refint\HNC_CSharp_Fundamentals.dll
+C:\Users\N440_HNC\source\repos\HNC_CSharp_Fundamentals\HNC_CSharp_Fundamentals\obj\Debug\net10.0\HNC_CSharp_Fundamentals.pdb
+C:\Users\N440_HNC\source\repos\HNC_CSharp_Fundamentals\HNC_CSharp_Fundamentals\obj\Debug\net10.0\HNC_CSharp_Fundamentals.genruntimeconfig.cache
+C:\Users\N440_HNC\source\repos\HNC_CSharp_Fundamentals\HNC_CSharp_Fundamentals\obj\Debug\net10.0\ref\HNC_CSharp_Fundamentals.dll
+C:\Users\N440_HNC\source\repos\HNC_CSharp_Fundamentals\HNC_CSharp_Fundamentals\obj\Debug\net10.0\HNC_CSha.276ECEB9.Up2Date
